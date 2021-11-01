@@ -1,0 +1,5 @@
+opencv-contrib-python==3.4.2.17
+opencv-python==4.1.2.30
+pathlib2==2.3.5
+matplotlib==3.1.1
+torchvision==0.7.0
